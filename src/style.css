@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: radial-gradient(rgb(106, 215, 117), rgb(29, 223, 191));
+  background: green;
 }
 
 #card {
